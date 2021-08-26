@@ -1,4 +1,4 @@
-# Simple_Classification_with_Python
+# Cat vs Dog Image Classifier-Simple_Classification_with_Python
 
 Project Idea | Cat vs Dog Image Classifier using CNN implemented using Keras
 
